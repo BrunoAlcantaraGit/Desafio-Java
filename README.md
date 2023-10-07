@@ -1,4 +1,4 @@
-#Abaixo segue uma desafio  de código  resolvido utilizando os métodos do Stream API
+# *Abaixo segue uma desafio  de código, resolvido utilizando os métodos do Stream API*
 
 # Descrição
 
